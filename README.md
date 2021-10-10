@@ -35,7 +35,7 @@ git clone https://github.com/louislooi/restaurant_list
 
 2. 繼續使用terminal來開啟專案在本地存放的位置
 ```
-> cd restaurant_list
+> cd restaurant_list-main
 ```
 3. 安裝 npm 套件 
 ```
